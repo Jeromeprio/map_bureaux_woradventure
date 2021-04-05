@@ -1201,12 +1201,56 @@
          "tilewidth":32
         }, 
         {
+         "columns":40,
          "firstgid":2005,
-         "source":"TILSET\/logos2.tsx"
+         "image":"TILSET\/logos2.png",
+         "imageheight":720,
+         "imagewidth":1280,
+         "margin":0,
+         "name":"logos2",
+         "spacing":0,
+         "tilecount":880,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":62,
          "firstgid":2885,
-         "source":"bureaux.tsx"
+         "image":"TILSET\/bureaux.png",
+         "imageheight":1127,
+         "imagewidth":2002,
+         "margin":0,
+         "name":"bureaux",
+         "spacing":0,
+         "tilecount":2170,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":62,
+         "firstgid":5055,
+         "image":"TILSET\/bureaux.png",
+         "imageheight":1127,
+         "imagewidth":2002,
+         "margin":0,
+         "name":"bureaux",
+         "spacing":0,
+         "tilecount":2170,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":40,
+         "firstgid":7225,
+         "image":"TILSET\/logos2.png",
+         "imageheight":720,
+         "imagewidth":1280,
+         "margin":0,
+         "name":"logos2",
+         "spacing":0,
+         "tilecount":880,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
