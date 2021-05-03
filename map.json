@@ -102,7 +102,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"machinecafe"
+                 "value":"https:\/\/meet.jit.si\/machinecafe"
                 }],
          "type":"tilelayer",
          "visible":true,
